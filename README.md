@@ -35,7 +35,7 @@ Please take a moment to complete the class survey at: <https://www.surveymonkey.
 - [Git Aliases](https://haacked.com/archive/2014/07/28/github-flow-aliases/)
 - [Visuals of Helpful Git Commands](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1)
 
-#### Review Materials and Visualization
+#### Materials & Visualization Review
 
 - [Review videos](https://www.youtube.com/playlist?list=PLg7s6cbtAD16Pgp6WIVfX4VsGI-xyWkMz)
 - [GitSchool - Visualizing Git](http://git-school.github.io/visualizing-git/)
